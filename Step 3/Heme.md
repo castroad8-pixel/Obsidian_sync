@@ -1,0 +1,4 @@
+- Sickle cell complications:
+	- Aplastic crisis: **low retic**, 2/2 infection (parvo)
+	- Sequestration: high retic, occurs prior to autosplenectomy
+	- Note - aplastic ***crisis*** is specific to erythropoiesis 

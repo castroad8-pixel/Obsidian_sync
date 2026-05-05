@@ -1,0 +1,4 @@
+- Amio-induced thyroid toxicity
+	- Decreased peripheral T4 to T3 conversion, common in first 1-3 months - **clinically euthyroid
+	- Primary hypothyroidism via wolff-chaikoff effect
+	- amio-induced thyrotoxicosis (AIT) due to increased thyroid hormone or destructive thyroiditis (TSH **low** in both)

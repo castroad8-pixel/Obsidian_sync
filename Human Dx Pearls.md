@@ -1,0 +1,4 @@
+- Use the **Burch-Wartofsky Scale** to calculate likelihood of thyroid storm
+	- https://www.mdcalc.com/calc/3816/burch-wartofsky-point-scale-bwps-thyrotoxicosis
+- Lithium can cause **hypothyroidism and hyperthyroidism**
+- 

@@ -1,0 +1,2 @@
+- High-risk bite wounds: hands/feet, cat and human bites (except on face), wounds > 12 hrs or on face > 24 hrs, bite wounds in immunocompromised hosts
+-

@@ -1,0 +1,2 @@
+*Finerenone*: MRA proven to reduce proteinuria/slow diabetic kidney disease in patients on max RAAS inhibition: (FIEEDLIO-DKD) https://www.nejm.org/doi/full/10.1056/NEJMoa2025845
+	Less HyperK than spiro/eplerenone

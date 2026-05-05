@@ -1,0 +1,2 @@
+Noninvasive Respiratory Support for Adults with Acute Respiratory Failure:( https://www.nejm.org/doi/full/10.1056/NEJMra2204556)
+Friday Night Ventilation: A safety starting tool kit for mechanically ventilated patients (https://www.tasmc.org.il/Internalmed/Documents/05%20article%20friday%20night%20ventilation.pdf)

@@ -1,0 +1,7 @@
+- **Uterine sarcoma** - postmenopausal pts w/ new-onset pelvic pressure/pain, uterine mass, ascites. Mets common to lung. **Risk factor - tamoxifen 
+- Ectopic - 1st trimester bleeding, + bHCG.
+	- Discriminatory zone = 3500
+	- If above, should be able to detect an intrauterine pregnancy
+	- Complex adnexal mass = ectopic
+- Implantation bleeding - 2 weeks after fertilization
+- 

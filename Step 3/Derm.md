@@ -1,0 +1,2 @@
+- Chronic spontaneous urticaria - Most important to biopsy if signs of **urticarial vasculitis or mastocytosis (abdominal pain, syncope, flushing)**​​​​​
+- 

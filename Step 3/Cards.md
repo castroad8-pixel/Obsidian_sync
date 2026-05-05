@@ -1,0 +1,1 @@
+- **Cocaine** - treat with benzos, nitro, avoid BBs, CCBs for chest pain, phentolamine for hypertension
