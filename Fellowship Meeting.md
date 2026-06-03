@@ -24,4 +24,16 @@ For me (list will encompass 5 regions), plan for no geographic preference
 
 Organize from most -> least impactful 
 
-Ide
+Identify 3 - most meaningful
+
+(Optional) Impactful Experience
+- For me, probably worth writing about appalachia 
+
+- Scholarly work section
+- 3 as most meaningful, ideally tying back into most meaningful experiences
+
+Mistakes to **avoid**:
+- Post-graduate training: residency training, put BIDMC
+
+Interview tips:
+	
