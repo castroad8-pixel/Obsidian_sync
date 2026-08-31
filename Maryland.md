@@ -52,3 +52,13 @@ nonICU - overnight call
 Tracks - research, education, specialty focus (IP/ILD/transplant/sleep)
 
 4 weeks vacation
+
+Moonlighting 2nd and 3rd year
+
+4-6 weeks VA/Pulm consults
+Weekend coverage in ICU
+
+Nights - MICU for first year fellows
+Non-MICY for 3rd year
+
+Education - monday afternoons
