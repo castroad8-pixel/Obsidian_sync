@@ -31,6 +31,15 @@ Year 2 and 3
 	Min. 6 months clinical
 	0.5 day/week of clinic 
 
+Winchester center for lung disease
+	Fellows clinic
+		founded with a TB focus and still see many of these
+	Full subspecialty exposure
+
+
+	
+	
+
 
 
 
