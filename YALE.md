@@ -36,7 +36,8 @@ Winchester center for lung disease
 		founded with a TB focus and still see many of these
 	Full subspecialty exposure
 
-
+One IP fellow, but 4 faculty so great exposure 
+	Robotic + bronch + pleural services
 	
 	
 
