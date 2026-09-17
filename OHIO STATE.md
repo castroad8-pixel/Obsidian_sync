@@ -26,3 +26,5 @@ Research
 	Research month in first year
 	Explore mentors, track selection
 
+4 IP faculty, 1 IP fellow
+	Optional 2-4 week IP elective in 2nd and 3rd years
