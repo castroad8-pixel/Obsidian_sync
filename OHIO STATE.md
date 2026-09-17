@@ -5,6 +5,14 @@ ICU
 	F2 - SICU
 	F3 - NICU, CVICU
 
+**Lung transplant, PH w/ pulm**
+
+Continuity clinic in years 1-2, *subspecialty clinics in year 3
+
+18-24 months clinic, 18-24 scholarship
+
+Year 1 - 3-4 ICU, 3-4 consults, 1 month nights in second half of year, PFTs + procedures
+
 
 Nights
 	2 weeks F1
