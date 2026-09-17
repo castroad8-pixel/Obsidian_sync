@@ -1,7 +1,9 @@
 
 ICU
 	4 MICUs, 1 in cancer hospital
-	East - mixed ICU 
+	East - mixed ICU (medical/cardiac/surgical)
+	F2 - SICU
+	F3 - NICU, CVICU
 
 
 Nights
