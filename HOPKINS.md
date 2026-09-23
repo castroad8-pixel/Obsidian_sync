@@ -44,3 +44,5 @@ Year 3
 - 12 days of nights 
 - 4 weekends
 - 3 weeks jeopardy
+
+Around May of F1 - proposal, clinician-scholar vs clinician scientisit
