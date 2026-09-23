@@ -10,3 +10,11 @@ Clinician scholar vs clinician scientist in F2-F3
 	Monthly meetings, one senior advisor, scholarly didactics, peer microteaching curriculum
 
 Multiple UME, GME teaching opportunities
+
+First 2 years - continuity clinic, then subspecialty in year 3
+
+Own airways in MICU
+All thoras at Bayview
+Majority of lines
+Chest tubes on IP
+VV ECMO in unit, VA in CVICU/CCU as off service
