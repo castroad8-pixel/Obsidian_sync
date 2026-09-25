@@ -39,5 +39,12 @@ Core currciulum
 
 EXCITE pathway for educatino
 
+VA is mixed unit - CCU, MICU
+Home call 
+VUMC ICU in 2nd half of the year
+	Alternate short and long
+Dedicated night fellow, 2nd/3rd year
+Fellow with one resident team + one APP team
+No in-house attending
 
 
