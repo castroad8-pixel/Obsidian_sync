@@ -46,5 +46,6 @@ VUMC ICU in 2nd half of the year
 Dedicated night fellow, 2nd/3rd year
 Fellow with one resident team + one APP team
 No in-house attending
+One 28 hour per week in ICU to give night shift a break
 
 
