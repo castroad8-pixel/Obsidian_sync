@@ -12,4 +12,8 @@
 	- Academic curriculum with research retreats, individual training plan, communication curriculum
 
 - Academic Overview:
-	- 
+	- 3 pathways:
+		- MedEd: educational leadership; qualitative and quantitative research skills
+			- Activities include research, development of educational tools/methods, education-specific fellowship programs and teaching
+			- Scholarship pogram; clinical educator track for fellow
+			- 
