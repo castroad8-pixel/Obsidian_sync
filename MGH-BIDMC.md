@@ -15,5 +15,6 @@
 	- 3 pathways:
 		- MedEd: educational leadership; qualitative and quantitative research skills
 			- Activities include research, development of educational tools/methods, education-specific fellowship programs and teaching
-			- Scholarship pogram; clinical educator track for fellow
-			- 
+			- Scholarship program; clinical educator track for fellow
+		- Academic Clinical Medicine: subspecialty expertise, clinical activities tailored to area of interest
+		- Scientific Investigation: 
